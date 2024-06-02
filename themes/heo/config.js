@@ -19,8 +19,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'ai-free.club.com',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'https://blog.ai-free.club',
-  HEO_HERO_TITLE_LINK: 'https://blog.ai-free.club',
+  HEO_HERO_TITLE_5: '最新ai工具上线',
+  HEO_HERO_TITLE_LINK: 'https://blog.ai-free.club/ai/tool',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
