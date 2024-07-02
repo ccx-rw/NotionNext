@@ -34,7 +34,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是Ravey，一个工作十年以上的程序员',
+    '你好！我是Ravey，10年资深编程开发经验的工程师',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
@@ -42,7 +42,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://blog.ai-free.club/about', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://github.com/RaveyShare', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
